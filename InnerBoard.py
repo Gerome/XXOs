@@ -46,7 +46,7 @@ class InnerBoard:
             letters = [self.board[x][y] for x, y in coordinates]
 
             # If all the letters match
-            if "e" not in letters:
+            if "." not in letters:
                 if len(set(letters)) <= 1:
                     return True
 
