@@ -13,8 +13,11 @@ WINNING_COMBINATIONS = [
             ]
 
 
-class InnerBoard:
+def __BoardPositionOutOfBounds__(xPos, yPos):
+    return xPos > 2 or yPos > 2 or xPos < 0 or yPos < 0
 
+class InnerBoard:
+    ERROR_INVALID_POSITION = -2
     ERROR_OCCUPIED = -1
     ERROR_NO_ERROR = 0
 
@@ -29,17 +32,18 @@ class InnerBoard:
         return self.numberOfSpaces
 
     def TakeTurn(self, xPos, yPos, noughtCross):
-        self.numberOfSpaces -= 1
+
+        if __BoardPositionOutOfBounds__(xPos, yPos):
+            return self.ERROR_INVALID_POSITION
 
         if self.board[xPos][yPos] != '.':
             return self.ERROR_OCCUPIED
 
+        self.numberOfSpaces -= 1
+
         self.board[xPos][yPos] = noughtCross.type
 
         return self.ERROR_NO_ERROR
-
-    def GetBoard(self):
-        return self.board
 
     def HasBeenWon(self):
         for coordinates in WINNING_COMBINATIONS:
@@ -51,3 +55,5 @@ class InnerBoard:
                     return True
 
         return False
+
+

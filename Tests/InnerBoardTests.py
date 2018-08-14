@@ -22,7 +22,7 @@ class InnerBoardTests(TestCase):
         self.assertEqual(8, self.innerBoard.NumberOfSpaces())
 
     def test_get_board_should_return_empty_2D_array_representing_the_board(self):
-        self.assertEqual(emptyBoard, self.innerBoard.GetBoard())
+        self.assertEqual(emptyBoard, self.innerBoard.board)
 
     def test_take_turn_should_occupy_place_on_the_board(self):
         cross = NoughtCross('X')
@@ -60,13 +60,8 @@ class InnerBoardTests(TestCase):
 
         self.assertEqual(InnerBoard.ERROR_OCCUPIED, returnedError)
 
+    def test_should_throw_error_when_passed_invalid_positions(self):
+        returnedError = self.innerBoard.TakeTurn(2, 3, NoughtCross('O'))
 
-'''
-TestList
--Z
--O
--M
--B
--I
--E
-'''
+        self.assertEqual(InnerBoard.ERROR_INVALID_POSITION, returnedError)
+
