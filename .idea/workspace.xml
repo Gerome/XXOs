@@ -3,14 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="b5aa0acc-aab5-43eb-bbd8-7e808f535d74" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/BoardView.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/BoardViewTests.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Board.py" beforeDir="false" afterPath="$PROJECT_DIR$/Board.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/InnerBoard.py" beforeDir="false" afterPath="$PROJECT_DIR$/InnerBoard.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NoughtCross.py" beforeDir="false" afterPath="$PROJECT_DIR$/NoughtCross.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Tests/BoardTests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/BoardTests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/InnerBoardTests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/InnerBoardTests.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,24 +33,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="33" />
+          <entry key="py" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="33" />
+          <entry key="Python" value="37" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="5056" />
+          <entry key="py" value="6938" />
           <entry key="txt" value="36" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="36" />
-          <entry key="Python" value="5056" />
+          <entry key="Python" value="6938" />
         </counts>
       </usages-collector>
     </session>
@@ -61,11 +60,50 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BoardView.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="38" column="12" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
+            <state relative-caret-position="223">
+              <caret line="55" column="47" selection-start-line="55" selection-start-column="47" selection-end-line="55" selection-end-column="47" />
               <folding>
-                <marker date="1534242747036" expanded="true" signature="2036:2061" ph="..." />
-                <marker date="1534242747036" expanded="true" signature="2235:2240" ph="..." />
+                <marker date="1534268424151" expanded="true" signature="1060:1178" ph="..." />
+                <marker date="1534268424151" expanded="true" signature="1448:1473" ph="..." />
+                <marker date="1534268424151" expanded="true" signature="1588:1597" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tests/BoardViewTests.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="262">
+              <caret line="71" column="31" selection-start-line="71" selection-start-column="31" selection-end-line="71" selection-end-column="31" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+                <marker date="1534268386804" expanded="true" signature="3412:3413" ph="..." />
+                <marker date="1534268386804" expanded="true" signature="3740:4155" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/unittest/case.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="137">
+              <caret line="604" selection-start-line="604" selection-end-line="604" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tests/InnerBoardTests.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+                <marker date="1534240685910" expanded="true" signature="316:322" ph="..." />
+                <marker date="1534240685910" expanded="true" signature="1715:1724" ph="..." />
+                <marker date="1534240685910" expanded="true" signature="1715:1884" ph="..." />
               </folding>
             </state>
           </provider>
@@ -74,11 +112,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Game.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="426">
-              <caret line="45" selection-start-line="45" selection-end-line="45" />
+            <state relative-caret-position="384">
+              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
-                <marker date="1534240670447" expanded="true" signature="158:159" ph="..." />
+                <marker date="1534251516181" expanded="true" signature="190:191" ph="..." />
               </folding>
             </state>
           </provider>
@@ -97,10 +135,15 @@
     <findStrings>
       <find>emptyBoard</find>
       <find>│</find>
+      <find>│ e</find>
+      <find>3</find>
+      <find>9</find>
     </findStrings>
     <replaceStrings>
       <replace>│  e</replace>
       <replace>│ e</replace>
+      <replace>│ .</replace>
+      <replace />
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -120,10 +163,12 @@
         <option value="$PROJECT_DIR$/NoughtCross.py" />
         <option value="$PROJECT_DIR$/Main.py" />
         <option value="$PROJECT_DIR$/Tests/BoardTests.py" />
-        <option value="$PROJECT_DIR$/Game.py" />
         <option value="$PROJECT_DIR$/Board.py" />
         <option value="$PROJECT_DIR$/InnerBoard.py" />
+        <option value="$PROJECT_DIR$/Game.py" />
         <option value="$PROJECT_DIR$/Tests/InnerBoardTests.py" />
+        <option value="$PROJECT_DIR$/BoardViewTests.py" />
+        <option value="$PROJECT_DIR$/Tests/BoardViewTests.py" />
         <option value="$PROJECT_DIR$/BoardView.py" />
       </list>
     </option>
@@ -177,28 +222,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.BoardView">
-    <configuration name="BoardView" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="XXOs" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BoardView.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Main">
     <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="XXOs" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -220,7 +244,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for BoardTests.BoardTests" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for BoardViewTests.BoardViewTests" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="XXOs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -230,11 +254,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;BoardTests.BoardTests&quot;" />
+      <option name="_new_target" value="&quot;BoardViewTests.BoardViewTests&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for InnerBoardTests.InnerBoardTests" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for BoardViewTests.BoardViewTests.test_PrintBoard_should_print_the_board_with_one_character" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="XXOs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -244,11 +268,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;InnerBoardTests.InnerBoardTests&quot;" />
+      <option name="_new_target" value="&quot;BoardViewTests.BoardViewTests.test_PrintBoard_should_print_the_board_with_one_character&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for InnerBoardTests.InnerBoardTests.test_get_board_should_return_empty_2D_array_representing_the_board" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for BoardViewTests.BoardViewTests.test_UpdateBoard_should_add_a_character_to_boardViewString" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="XXOs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -258,24 +282,38 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;InnerBoardTests.InnerBoardTests.test_get_board_should_return_empty_2D_array_representing_the_board&quot;" />
+      <option name="_new_target" value="&quot;BoardViewTests.BoardViewTests.test_UpdateBoard_should_add_a_character_to_boardViewString&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in BoardViewTests.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="XXOs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Tests/BoardViewTests.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.Unittests for InnerBoardTests.InnerBoardTests" />
-      <item itemvalue="Python tests.Unittests for BoardTests.BoardTests" />
+      <item itemvalue="Python tests.Unittests for BoardViewTests.BoardViewTests" />
+      <item itemvalue="Python tests.Unittests for BoardViewTests.BoardViewTests.test_UpdateBoard_should_add_a_character_to_boardViewString" />
+      <item itemvalue="Python tests.Unittests in BoardViewTests.py" />
+      <item itemvalue="Python tests.Unittests for BoardViewTests.BoardViewTests.test_PrintBoard_should_print_the_board_with_one_character" />
       <item itemvalue="Python.Main" />
-      <item itemvalue="Python tests.Unittests for InnerBoardTests.InnerBoardTests.test_get_board_should_return_empty_2D_array_representing_the_board" />
-      <item itemvalue="Python.BoardView" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.BoardView" />
-        <item itemvalue="Python tests.Unittests for InnerBoardTests.InnerBoardTests" />
-        <item itemvalue="Python tests.Unittests for InnerBoardTests.InnerBoardTests.test_get_board_should_return_empty_2D_array_representing_the_board" />
         <item itemvalue="Python.Main" />
-        <item itemvalue="Python tests.Unittests for BoardTests.BoardTests" />
+        <item itemvalue="Python tests.Unittests for BoardViewTests.BoardViewTests" />
+        <item itemvalue="Python tests.Unittests for BoardViewTests.BoardViewTests.test_UpdateBoard_should_add_a_character_to_boardViewString" />
+        <item itemvalue="Python tests.Unittests for BoardViewTests.BoardViewTests.test_PrintBoard_should_print_the_board_with_one_character" />
+        <item itemvalue="Python tests.Unittests in BoardViewTests.py" />
       </list>
     </recent_temporary>
   </component>
@@ -301,35 +339,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_BoardTests_BoardTests - 2018.08.13 at 18h 34m 14s.xml">
-      <configuration name="Unittests for BoardTests.BoardTests" configurationId="tests" />
+    <history-entry file="Unittests_in_BoardViewTests_py - 2018.08.14 at 18h 26m 07s.xml">
+      <configuration name="Unittests in BoardViewTests.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_BoardTests_BoardTests - 2018.08.13 at 18h 41m 51s.xml">
-      <configuration name="Unittests for BoardTests.BoardTests" configurationId="tests" />
+    <history-entry file="Unittests_in_BoardViewTests_py - 2018.08.14 at 18h 27m 40s.xml">
+      <configuration name="Unittests in BoardViewTests.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_BoardTests_BoardTests - 2018.08.13 at 18h 43m 34s.xml">
-      <configuration name="Unittests for BoardTests.BoardTests" configurationId="tests" />
+    <history-entry file="Unittests_for_BoardViewTests_BoardViewTests_test_PrintBoard_should_print_the_board_with_one_character - 2018.08.14 at 18h 28m 19s.xml">
+      <configuration name="Unittests for BoardViewTests.BoardViewTests.test_PrintBoard_should_print_the_board_with_one_character" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_BoardTests_BoardTests - 2018.08.13 at 18h 44m 43s.xml">
-      <configuration name="Unittests for BoardTests.BoardTests" configurationId="tests" />
+    <history-entry file="Unittests_for_BoardViewTests_BoardViewTests - 2018.08.14 at 18h 34m 07s.xml">
+      <configuration name="Unittests for BoardViewTests.BoardViewTests" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_BoardTests_BoardTests - 2018.08.13 at 18h 48m 44s.xml">
-      <configuration name="Unittests for BoardTests.BoardTests" configurationId="tests" />
+    <history-entry file="Unittests_for_BoardViewTests_BoardViewTests - 2018.08.14 at 18h 35m 21s.xml">
+      <configuration name="Unittests for BoardViewTests.BoardViewTests" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_BoardTests_BoardTests - 2018.08.13 at 18h 49m 10s.xml">
-      <configuration name="Unittests for BoardTests.BoardTests" configurationId="tests" />
+    <history-entry file="Unittests_for_BoardViewTests_BoardViewTests_test_PrintBoard_should_print_the_board_with_one_character - 2018.08.14 at 18h 37m 30s.xml">
+      <configuration name="Unittests for BoardViewTests.BoardViewTests.test_PrintBoard_should_print_the_board_with_one_character" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_BoardTests_BoardTests - 2018.08.13 at 19h 03m 43s.xml">
-      <configuration name="Unittests for BoardTests.BoardTests" configurationId="tests" />
+    <history-entry file="Unittests_for_BoardViewTests_BoardViewTests_test_PrintBoard_should_print_the_board_with_one_character - 2018.08.14 at 18h 37m 53s.xml">
+      <configuration name="Unittests for BoardViewTests.BoardViewTests.test_PrintBoard_should_print_the_board_with_one_character" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_InnerBoardTests_InnerBoardTests - 2018.08.14 at 10h 57m 50s.xml">
-      <configuration name="Unittests for InnerBoardTests.InnerBoardTests" configurationId="tests" />
+    <history-entry file="Unittests_for_BoardViewTests_BoardViewTests_test_UpdateBoard_should_add_a_character_to_boardViewString - 2018.08.14 at 18h 38m 45s.xml">
+      <configuration name="Unittests for BoardViewTests.BoardViewTests.test_UpdateBoard_should_add_a_character_to_boardViewString" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_InnerBoardTests_InnerBoardTests_test_get_board_should_return_empty_2D_array_representing_the_board - 2018.08.14 at 10h 58m 06s.xml">
-      <configuration name="Unittests for InnerBoardTests.InnerBoardTests.test_get_board_should_return_empty_2D_array_representing_the_board" configurationId="tests" />
+    <history-entry file="Unittests_for_BoardViewTests_BoardViewTests - 2018.08.14 at 18h 39m 47s.xml">
+      <configuration name="Unittests for BoardViewTests.BoardViewTests" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_InnerBoardTests_InnerBoardTests - 2018.08.14 at 10h 58m 09s.xml">
-      <configuration name="Unittests for InnerBoardTests.InnerBoardTests" configurationId="tests" />
+    <history-entry file="Unittests_for_BoardViewTests_BoardViewTests_test_UpdateBoard_should_add_a_character_to_boardViewString - 2018.08.14 at 18h 39m 57s.xml">
+      <configuration name="Unittests for BoardViewTests.BoardViewTests.test_UpdateBoard_should_add_a_character_to_boardViewString" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -350,7 +388,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Debug" order="2" weight="0.31369862" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.30821916" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" weight="0.32861635" />
@@ -358,7 +396,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="9" weight="0.32861635" />
-      <window_info active="true" anchor="bottom" x="180" y="379" width="683" height="273" id="Run" order="10" visible="true" weight="0.40136987" />
+      <window_info active="true" anchor="bottom" x="180" y="379" width="683" height="273" id="Run" order="10" visible="true" weight="0.38767123" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -375,9 +413,14 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Game.py</url>
-          <line>42</line>
-          <option name="timeStamp" value="4" />
+          <url>file://$PROJECT_DIR$/BoardView.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/BoardView.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -386,26 +429,6 @@
     <entry file="file://$PROJECT_DIR$/freddie.py" />
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/unittest/case.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="442" column="8" selection-start-line="442" selection-start-column="8" selection-end-line="442" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tests/InnerBoardTests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="58" selection-start-line="24" selection-start-column="58" selection-end-line="24" selection-end-column="58" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-            <marker date="1534240685910" expanded="true" signature="316:322" ph="..." />
-            <marker date="1534240685910" expanded="true" signature="1715:1724" ph="..." />
-            <marker date="1534240685910" expanded="true" signature="1715:1884" ph="..." />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Tests/BoardTests.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -472,22 +495,62 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Game.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        <state relative-caret-position="384">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
-            <marker date="1534240670447" expanded="true" signature="158:159" ph="..." />
+            <marker date="1534251516181" expanded="true" signature="190:191" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/BoardViewTests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/InnerBoardTests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+            <marker date="1534240685910" expanded="true" signature="316:322" ph="..." />
+            <marker date="1534240685910" expanded="true" signature="1715:1724" ph="..." />
+            <marker date="1534240685910" expanded="true" signature="1715:1884" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="604" selection-start-line="604" selection-end-line="604" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/BoardViewTests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="71" column="31" selection-start-line="71" selection-start-column="31" selection-end-line="71" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+            <marker date="1534268386804" expanded="true" signature="3412:3413" ph="..." />
+            <marker date="1534268386804" expanded="true" signature="3740:4155" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BoardView.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="38" column="12" selection-start-line="38" selection-start-column="12" selection-end-line="38" selection-end-column="12" />
+        <state relative-caret-position="223">
+          <caret line="55" column="47" selection-start-line="55" selection-start-column="47" selection-end-line="55" selection-end-column="47" />
           <folding>
-            <marker date="1534242747036" expanded="true" signature="2036:2061" ph="..." />
-            <marker date="1534242747036" expanded="true" signature="2235:2240" ph="..." />
+            <marker date="1534268424151" expanded="true" signature="1060:1178" ph="..." />
+            <marker date="1534268424151" expanded="true" signature="1448:1473" ph="..." />
+            <marker date="1534268424151" expanded="true" signature="1588:1597" ph="..." />
           </folding>
         </state>
       </provider>
