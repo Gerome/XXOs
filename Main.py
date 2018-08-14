@@ -1,4 +1,4 @@
 from Game import Game
 
 game = Game()
-game.Start()
+game.start()
