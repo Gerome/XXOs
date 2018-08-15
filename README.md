@@ -75,5 +75,4 @@ Player 1 now has to go in the top left board.
 └───┴───┴───┘└───┴───┴───┘└───┴───┴───┘
 .
 .
-.
 The winner is the one that wins three overall boards in a row!
