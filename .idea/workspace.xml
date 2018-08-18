@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5aa0acc-aab5-43eb-bbd8-7e808f535d74" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BoardView.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/BoardViewTests.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Board.py" beforeDir="false" afterPath="$PROJECT_DIR$/Board.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BoardView.py" beforeDir="false" afterPath="$PROJECT_DIR$/BoardView.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/Game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NoughtCross.py" beforeDir="false" afterPath="$PROJECT_DIR$/NoughtCross.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tests/BoardTests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/BoardTests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/BoardViewTests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/BoardViewTests.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,51 +19,66 @@
     <session id="1501669860">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="10" />
           <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="37" />
+          <entry key="md" value="1" />
+          <entry key="py" value="40" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="37" />
+          <entry key="Markdown" value="1" />
+          <entry key="Python" value="40" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="6938" />
+          <entry key="md" value="72" />
+          <entry key="py" value="7469" />
           <entry key="txt" value="36" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+          <entry key="Markdown" value="72" />
           <entry key="PLAIN_TEXT" value="36" />
-          <entry key="Python" value="6938" />
+          <entry key="Python" value="7469" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BoardView.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="55" column="47" selection-start-line="55" selection-start-column="47" selection-end-line="55" selection-end-column="47" />
+            <state relative-caret-position="548">
+              <caret line="66" column="54" selection-start-line="66" selection-start-column="54" selection-end-line="66" selection-end-column="54" />
               <folding>
-                <marker date="1534268424151" expanded="true" signature="1060:1178" ph="..." />
-                <marker date="1534268424151" expanded="true" signature="1448:1473" ph="..." />
-                <marker date="1534268424151" expanded="true" signature="1588:1597" ph="..." />
+                <marker date="1534276762808" expanded="true" signature="1060:1178" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/InnerBoard.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+              <folding>
+                <marker date="1534240670451" expanded="true" signature="638:647" ph="..." />
               </folding>
             </state>
           </provider>
@@ -74,12 +87,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Tests/BoardViewTests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="71" column="31" selection-start-line="71" selection-start-column="31" selection-end-line="71" selection-end-column="31" />
+            <state relative-caret-position="1185">
+              <caret line="81" column="42" selection-start-line="81" selection-start-column="42" selection-end-line="81" selection-end-column="42" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
-                <marker date="1534268386804" expanded="true" signature="3412:3413" ph="..." />
-                <marker date="1534268386804" expanded="true" signature="3740:4155" ph="..." />
+                <marker date="1534276546327" expanded="true" signature="3412:3413" ph="..." />
+                <marker date="1534276546327" expanded="true" signature="3740:4155" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Board.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+              <folding>
+                <marker date="1534275930066" expanded="true" signature="14:15" ph="..." />
+                <marker date="1534275930066" expanded="true" signature="14:49" ph="..." />
+                <marker date="1534275930066" expanded="true" signature="297:302" ph="..." />
               </folding>
             </state>
           </provider>
@@ -88,7 +115,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/unittest/case.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
+            <state relative-caret-position="8865">
               <caret line="604" selection-start-line="604" selection-end-line="604" />
             </state>
           </provider>
@@ -97,8 +124,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Tests/InnerBoardTests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            <state relative-caret-position="765">
+              <caret line="53" column="65" selection-start-line="53" selection-start-column="52" selection-end-line="53" selection-end-column="65" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
                 <marker date="1534240685910" expanded="true" signature="316:322" ph="..." />
@@ -109,15 +136,36 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Game.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+            <state relative-caret-position="428">
+              <caret line="76" selection-start-line="76" selection-end-line="76" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
-                <marker date="1534251516181" expanded="true" signature="190:191" ph="..." />
+                <marker date="1534588659843" expanded="true" signature="190:191" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2018.2/python_stubs/-1199943127/builtins.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5034" column="8" selection-start-line="5034" selection-start-column="8" selection-end-line="5034" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="255">
+                <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -163,20 +211,20 @@
         <option value="$PROJECT_DIR$/NoughtCross.py" />
         <option value="$PROJECT_DIR$/Main.py" />
         <option value="$PROJECT_DIR$/Tests/BoardTests.py" />
-        <option value="$PROJECT_DIR$/Board.py" />
-        <option value="$PROJECT_DIR$/InnerBoard.py" />
-        <option value="$PROJECT_DIR$/Game.py" />
         <option value="$PROJECT_DIR$/Tests/InnerBoardTests.py" />
         <option value="$PROJECT_DIR$/BoardViewTests.py" />
+        <option value="$PROJECT_DIR$/Board.py" />
+        <option value="$PROJECT_DIR$/InnerBoard.py" />
         <option value="$PROJECT_DIR$/Tests/BoardViewTests.py" />
         <option value="$PROJECT_DIR$/BoardView.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Game.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="729" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -310,8 +358,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.Main" />
-        <item itemvalue="Python tests.Unittests for BoardViewTests.BoardViewTests" />
         <item itemvalue="Python tests.Unittests for BoardViewTests.BoardViewTests.test_UpdateBoard_should_add_a_character_to_boardViewString" />
+        <item itemvalue="Python tests.Unittests for BoardViewTests.BoardViewTests" />
         <item itemvalue="Python tests.Unittests for BoardViewTests.BoardViewTests.test_PrintBoard_should_print_the_board_with_one_character" />
         <item itemvalue="Python tests.Unittests in BoardViewTests.py" />
       </list>
@@ -339,18 +387,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_BoardViewTests_py - 2018.08.14 at 18h 26m 07s.xml">
-      <configuration name="Unittests in BoardViewTests.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_BoardViewTests_py - 2018.08.14 at 18h 27m 40s.xml">
-      <configuration name="Unittests in BoardViewTests.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_BoardViewTests_BoardViewTests_test_PrintBoard_should_print_the_board_with_one_character - 2018.08.14 at 18h 28m 19s.xml">
-      <configuration name="Unittests for BoardViewTests.BoardViewTests.test_PrintBoard_should_print_the_board_with_one_character" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_BoardViewTests_BoardViewTests - 2018.08.14 at 18h 34m 07s.xml">
-      <configuration name="Unittests for BoardViewTests.BoardViewTests" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_for_BoardViewTests_BoardViewTests - 2018.08.14 at 18h 35m 21s.xml">
       <configuration name="Unittests for BoardViewTests.BoardViewTests" configurationId="tests" />
     </history-entry>
@@ -369,6 +405,18 @@
     <history-entry file="Unittests_for_BoardViewTests_BoardViewTests_test_UpdateBoard_should_add_a_character_to_boardViewString - 2018.08.14 at 18h 39m 57s.xml">
       <configuration name="Unittests for BoardViewTests.BoardViewTests.test_UpdateBoard_should_add_a_character_to_boardViewString" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_for_BoardViewTests_BoardViewTests_test_UpdateBoard_should_add_a_character_to_boardViewString - 2018.08.14 at 18h 40m 26s.xml">
+      <configuration name="Unittests for BoardViewTests.BoardViewTests.test_UpdateBoard_should_add_a_character_to_boardViewString" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_BoardViewTests_BoardViewTests - 2018.08.14 at 18h 40m 32s.xml">
+      <configuration name="Unittests for BoardViewTests.BoardViewTests" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_BoardViewTests_BoardViewTests - 2018.08.14 at 18h 41m 18s.xml">
+      <configuration name="Unittests for BoardViewTests.BoardViewTests" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_BoardViewTests_BoardViewTests_test_UpdateBoard_should_add_a_character_to_boardViewString - 2018.08.14 at 20h 53m 41s.xml">
+      <configuration name="Unittests for BoardViewTests.BoardViewTests.test_UpdateBoard_should_add_a_character_to_boardViewString" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -381,14 +429,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16521049" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Debug" order="2" weight="0.30821916" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.3068493" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" weight="0.32861635" />
@@ -396,7 +443,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="9" weight="0.32861635" />
-      <window_info active="true" anchor="bottom" x="180" y="379" width="683" height="273" id="Run" order="10" visible="true" weight="0.38767123" />
+      <window_info anchor="bottom" x="180" y="379" width="683" height="273" id="Run" order="10" weight="0.91643834" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -409,22 +456,6 @@
     <MESSAGE value="Inner board and its tests completed" />
     <option name="LAST_COMMIT_MESSAGE" value="Inner board and its tests completed" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BoardView.py</url>
-          <line>37</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/BoardView.py</url>
-          <line>55</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/freddie.py" />
     <entry file="file://$PROJECT_DIR$/test.py">
@@ -434,32 +465,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
           <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="16" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-            <marker date="1534182214123" expanded="true" signature="366:455" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/InnerBoard.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
-          <folding>
-            <marker date="1534240670451" expanded="true" signature="638:647" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Board.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <marker date="1534240670454" expanded="true" signature="14:15" ph="..." />
-            <marker date="1534240670454" expanded="true" signature="14:50" ph="..." />
-            <marker date="1534240670454" expanded="true" signature="299:304" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -471,13 +476,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Tests/NoughtCrossTests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Main.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -486,35 +485,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2018.2/python_stubs/-1199943127/builtins.py">
+    <entry file="file://$PROJECT_DIR$/BoardView.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="4938" column="8" selection-start-line="4938" selection-start-column="8" selection-end-line="4938" selection-end-column="8" />
+        <state relative-caret-position="548">
+          <caret line="66" column="54" selection-start-line="66" selection-start-column="54" selection-end-line="66" selection-end-column="54" />
+          <folding>
+            <marker date="1534276762808" expanded="true" signature="1060:1178" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Game.py">
+    <entry file="file://$PROJECT_DIR$/InnerBoard.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+        <state relative-caret-position="495">
+          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
           <folding>
-            <element signature="e#0#23#0" expanded="true" />
-            <marker date="1534251516181" expanded="true" signature="190:191" ph="..." />
+            <marker date="1534240670451" expanded="true" signature="638:647" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Tests/BoardViewTests.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="1185">
+          <caret line="81" column="42" selection-start-line="81" selection-start-column="42" selection-end-line="81" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+            <marker date="1534276546327" expanded="true" signature="3412:3413" ph="..." />
+            <marker date="1534276546327" expanded="true" signature="3740:4155" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8865">
+          <caret line="604" selection-start-line="604" selection-end-line="604" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Tests/InnerBoardTests.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        <state relative-caret-position="765">
+          <caret line="53" column="65" selection-start-line="53" selection-start-column="52" selection-end-line="53" selection-end-column="65" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
             <marker date="1534240685910" expanded="true" signature="316:322" ph="..." />
@@ -524,33 +537,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/unittest/case.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="604" selection-start-line="604" selection-end-line="604" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="255">
+            <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tests/BoardViewTests.py">
+    <entry file="file://$PROJECT_DIR$/Board.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="71" column="31" selection-start-line="71" selection-start-column="31" selection-end-line="71" selection-end-column="31" />
+        <state relative-caret-position="90">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
           <folding>
-            <element signature="e#0#29#0" expanded="true" />
-            <marker date="1534268386804" expanded="true" signature="3412:3413" ph="..." />
-            <marker date="1534268386804" expanded="true" signature="3740:4155" ph="..." />
+            <marker date="1534275930066" expanded="true" signature="14:15" ph="..." />
+            <marker date="1534275930066" expanded="true" signature="14:49" ph="..." />
+            <marker date="1534275930066" expanded="true" signature="297:302" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BoardView.py">
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2018.2/python_stubs/-1199943127/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="55" column="47" selection-start-line="55" selection-start-column="47" selection-end-line="55" selection-end-column="47" />
+        <state relative-caret-position="85">
+          <caret line="5034" column="8" selection-start-line="5034" selection-start-column="8" selection-end-line="5034" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="76" selection-start-line="76" selection-end-line="76" />
           <folding>
-            <marker date="1534268424151" expanded="true" signature="1060:1178" ph="..." />
-            <marker date="1534268424151" expanded="true" signature="1448:1473" ph="..." />
-            <marker date="1534268424151" expanded="true" signature="1588:1597" ph="..." />
+            <element signature="e#0#23#0" expanded="true" />
+            <marker date="1534588659843" expanded="true" signature="190:191" ph="..." />
           </folding>
         </state>
       </provider>

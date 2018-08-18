@@ -61,7 +61,7 @@ class BoardView:
         for i in range(len(self.boardViewString)):
             for k in range(len(self.boardViewString[0][0].splitlines())):
                 for j in range(len(self.boardViewString[i])):
-                    formattedBoard += self.boardViewString[i][j].splitlines()[k]
+                    formattedBoard += self.boardViewString[j][i].splitlines()[k]
                 formattedBoard += "\n"
 
         return RemoveNumbersFromString(formattedBoard)
