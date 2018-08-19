@@ -88,7 +88,6 @@ class BoardViewTests(TestCase):
 Testlist
 Z
 O
-test_PrintBoard_should_print_the_board_with_one_character
 M
 B
 I

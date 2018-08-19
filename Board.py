@@ -3,10 +3,8 @@
 class Board:
     ERROR_INVALID_BOARD = -1
 
-
     def __init__(self, innerBoards):
         self.innerBoards = innerBoards
-
 
     def TakeTurn(self, boardX, boardY, xPos, yPos, noughtCross):
 
